@@ -1,4 +1,4 @@
-### Hi I'm Nivedta. I am a fullstack developer - [website] 👋
+### Hi I'm Nivedta. I am a fullstack developer 👋
 
 ## I love coding and problem solving regardless of the platform or technology.
 
@@ -40,8 +40,6 @@ I am currently learning fullstack development and having fun creating projects w
 
 <details>
   <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
 
