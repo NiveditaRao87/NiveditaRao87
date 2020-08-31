@@ -12,9 +12,11 @@ I am currently learning fullstack development and having fun creating projects w
 ## Some of my projects
 
 [<img alt="Project form page" src= "https://github.com/NiveditaRao87/fcc-project-form-page/blob/master/screenshot.JPG" width="200px" height="100px"/>][formpage] 
+<br/>
 [**repo** ][formpagerepo]
 
 [<img alt="Project tribute page" src= "https://github.com/NiveditaRao87/fcc-project-tribute/blob/gh-pages/preview.JPG" width="200px" height="100px"/>][tributepage] 
+<br/>
 [**repo** ][tributepagerepo]
 
 ## Languages and Tools:
