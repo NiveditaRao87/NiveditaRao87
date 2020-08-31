@@ -13,11 +13,11 @@ I am currently learning fullstack development and having fun creating projects w
 
 [<img alt="Project form page" src= "https://github.com/NiveditaRao87/fcc-project-form-page/blob/master/screenshot.JPG" width="200px" height="100px"/>][formpage] 
 <br/>
-[**repo** ][formpagerepo]
+[**repo** ][formpagerepo] - HTML, CSS and vanilla javaScript
 
 [<img alt="Project tribute page" src= "https://github.com/NiveditaRao87/fcc-project-tribute/blob/gh-pages/preview.JPG" width="200px" height="100px"/>][tributepage] 
 <br/>
-[**repo** ][tributepagerepo]
+[**repo** ][tributepagerepo] - HTML and CSS
 
 ## Languages and Tools:
 
