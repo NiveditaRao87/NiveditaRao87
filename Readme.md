@@ -1,4 +1,4 @@
-# Hi I'm Nivedta. I am a fullstack developer 👋 
+## Hi I'm Nivedta. I am a fullstack developer 👋 
 [<img align="right" alt="niveditarao87.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="right" alt="niveditarrao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -11,9 +11,9 @@ I am currently learning fullstack development and having fun creating projects w
 
 ## Some of my projects
 
-[<img alt="Project form page" src= "https://github.com/NiveditaRao87/fcc-project-form-page/blob/master/screenshot.JPG" width="200px" />][formpage] [**repo** ][formpagerepo]
+[<img alt="Project form page" src= "https://github.com/NiveditaRao87/fcc-project-form-page/blob/master/screenshot.JPG" width="200px" height="100px"/>][formpage] [**repo** ][formpagerepo]
 
-[<img alt="Project tribute page" src= "https://github.com/NiveditaRao87/fcc-project-tribute/blob/gh-pages/preview.JPG" width="200px" />][tributepage] [**repo** ][formpagerepo]
+[<img alt="Project tribute page" src= "https://github.com/NiveditaRao87/fcc-project-tribute/blob/gh-pages/preview.JPG" width="200px" height="100px" />][tributepage] [**repo** ][formpagerepo]
 
 ## Languages and Tools:
 
