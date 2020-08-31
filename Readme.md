@@ -1,4 +1,4 @@
-<h1> Hi I'm Nivedta. I am a fullstack developer 👋 
+<h1><span> Hi I'm Nivedta. I am a fullstack developer 👋 </span>
 <a href="https://niveditarao87.github.io/"><img align="left" alt="niveditarao87.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://www.linkedin.com/in/niveditarrao/"><img align="left" alt="niveditarrao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 </h1>
