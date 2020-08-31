@@ -1,18 +1,17 @@
-### Hi I'm Nivedta. I am a fullstack developer 👋
+# Hi I'm Nivedta. I am a fullstack developer 👋 
 
-## I love coding and problem solving regardless of the platform or technology.
+´[<img align="left" alt="niveditarao87.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="niveditarrao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]´
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+I love coding and problem solving regardless of the platform or technology.
 
-<br />
 
 I have 7 years experience as a software developer. 
 I am currently learning fullstack development and having fun creating projects while learning.
 
 ### Some of my projects
 
-[<img alt="Project form page" src= "https://github.com/NiveditaRao87/fcc-project-form-page/blob/master/screenshot.JPG" />][https://niveditarao87.github.io/fcc-project-form-page/]
+[<img alt="Project form page" src= "https://github.com/NiveditaRao87/fcc-project-form-page/blob/master/screenshot.JPG" width="200px" />][formpage]
 
 ### Languages and Tools:
 
@@ -45,3 +44,4 @@ I am currently learning fullstack development and having fun creating projects w
 
 [website]: https://niveditarao87.github.io/
 [linkedin]: https://www.linkedin.com/in/niveditarrao/
+[formpage]: https://niveditarao87.github.io/fcc-project-form-page/
