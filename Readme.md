@@ -46,10 +46,9 @@ I am currently learning fullstack development and having fun creating projects w
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="Nivedita's github stats" src="https://github-readme-stats.vercel.app/api?username=niveditarao87&show_icons=true&hide_border=true&hide=prs,issues,contribs"/>
+  <img align="left" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niveditarao87" />
+
 </details>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niveditarao87)](https://github.com/niveditarao87/github-readme-stats)
-
 
 [website]: https://niveditarao87.github.io/
 [linkedin]: https://www.linkedin.com/in/niveditarrao/
