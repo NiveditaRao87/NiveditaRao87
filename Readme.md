@@ -45,9 +45,10 @@ I am currently learning fullstack development and having fun creating projects w
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="Nivedita's github stats" src="https://github-readme-stats.vercel.app/api?username=niveditarao87&show_icons=true&hide_border=true"/>
-
+  <img align="left" alt="Nivedita's github stats" src="https://github-readme-stats.vercel.app/api?username=niveditarao87&show_icons=true&hide_border=true&hide=prs,issues,contribs"/>
 </details>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=niveditarao87&repo=github-readme-stats)](https://github.com/niveditarao87/github-readme-stats)
 
 [website]: https://niveditarao87.github.io/
 [linkedin]: https://www.linkedin.com/in/niveditarrao/
