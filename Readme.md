@@ -17,13 +17,16 @@ I am currently learning fullstack development and having fun creating projects w
 [<img alt="Project tribute page" src= "https://github.com/NiveditaRao87/fcc-project-tribute/blob/gh-pages/preview.JPG" width="200px" height="100px"/>][tributepage] 
 [**repo** ][tributepagerepo]     HTML and CSS
 
-### Work in Progress
+<br/>
+<br/>
+
+### Work in Progress:
 
 [<img alt="Project Task management app" src= "https://github.com/NiveditaRao87/task-management-app-frontend/blob/master/preview.JPG" width="200px" height="100px"/>][taskmanager] 
 [**repo frontend** ][taskmanagerfrontend]     React, CSS
 [**repo backend** ][taskmanagerbackend]     Node.js, Express, MongoDB
 
-[<img alt="Project Find the species" src= "https://github.com/NiveditaRao87/find-the-species-frontend/blob/master/preview.jpg" width="200px" height="100px"/>][findthespecies] 
+[<img alt="Project Find the species" src= "https://github.com/NiveditaRao87/find-the-species-frontend/blob/master/preview.jpg" width="200px" height="100px" border="solid"/>][findthespecies] 
 [**repo** ][findthespeciesrepo]     React, Material-UI
 
 ## Languages and Tools:
