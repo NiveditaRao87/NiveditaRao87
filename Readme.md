@@ -12,9 +12,11 @@ I am currently learning fullstack development and having fun creating projects w
 ## Some of my projects
 
 [<img alt="Project form page" src= "https://github.com/NiveditaRao87/fcc-project-form-page/blob/master/screenshot.JPG" width="200px" height="100px"/>][formpage] 
+<br />
 [**repo** ][formpagerepo]     HTML, CSS and vanilla javaScript
 <br/>
 [<img alt="Project tribute page" src= "https://github.com/NiveditaRao87/fcc-project-tribute/blob/gh-pages/preview.JPG" width="200px" height="100px"/>][tributepage] 
+<br />
 [**repo** ][tributepagerepo]     HTML and CSS
 
 <br/>
@@ -23,10 +25,12 @@ I am currently learning fullstack development and having fun creating projects w
 ### Work in Progress:
 
 [<img alt="Project Task management app" src= "https://github.com/NiveditaRao87/task-management-app-frontend/blob/master/preview.JPG" width="200px" height="100px"/>][taskmanager] 
+<br />
 [**repo frontend** ][taskmanagerfrontend]     React, CSS
 [**repo backend** ][taskmanagerbackend]     Node.js, Express, MongoDB
 <br/>
 [<img alt="Project Find the species" src= "https://github.com/NiveditaRao87/find-the-species-frontend/blob/master/preview.jpg" width="200px" height="100px" border="solid"/>][findthespecies] 
+<br />
 [**repo** ][findthespeciesrepo]     React, Material-UI
 
 <br/>
