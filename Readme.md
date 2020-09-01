@@ -15,6 +15,7 @@ I am currently learning fullstack development and having fun creating projects w
 <br />
 [**repo** ][formpagerepo]     HTML, CSS and vanilla javaScript
 <br/>
+<br/>
 [<img alt="Project tribute page" src= "https://github.com/NiveditaRao87/fcc-project-tribute/blob/gh-pages/preview.JPG" width="200px" height="100px"/>][tributepage] 
 <br />
 [**repo** ][tributepagerepo]     HTML and CSS
@@ -28,6 +29,7 @@ I am currently learning fullstack development and having fun creating projects w
 <br />
 [**repo frontend** ][taskmanagerfrontend]     React, CSS
 [**repo backend** ][taskmanagerbackend]     Node.js, Express, MongoDB
+<br/>
 <br/>
 [<img alt="Project Find the species" src= "https://github.com/NiveditaRao87/find-the-species-frontend/blob/master/preview.jpg" width="200px" height="100px" border="solid"/>][findthespecies] 
 <br />
