@@ -39,16 +39,18 @@ I am currently learning fullstack development and having fun creating projects w
 ---
 
 <details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-</details>
-
-<details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="Nivedita's github stats" src="https://github-readme-stats.vercel.app/api?username=niveditarao87&show_icons=true&hide_border=true&hide=prs,issues,contribs"/>
   <img align="left" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niveditarao87" />
 
 </details>
+
+<br/>
+<br/>
+
+References for this ReadMe:
+1. [codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+2. [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://niveditarao87.github.io/
 [linkedin]: https://www.linkedin.com/in/niveditarrao/
