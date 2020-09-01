@@ -19,6 +19,18 @@ I am currently learning fullstack development and having fun creating projects w
 <br/>
 [**repo** ][tributepagerepo]     HTML and CSS
 
+### Work in Progress
+<p>
+[<img alt="Project Task management app" src= "https://github.com/NiveditaRao87/task-management-app-frontend/blob/master/preview.JPG" width="200px" height="100px"/>][taskmanager] 
+
+[**repo frontend** ][taskmanagerfrontend]     React, CSS
+
+[**repo backend** ][taskmanagerbackend]     Node.js, Express, MongoDB
+
+[<img alt="Project Find the species" src= "https://github.com/NiveditaRao87/find-the-species-frontend/blob/master/preview.jpg" width="200px" height="100px"/>][findthespecies] 
+
+[**repo** ][findthespeciesrepo]     React, Material-UI
+</p>
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -58,3 +70,8 @@ References for this ReadMe:
 [formpagerepo]: https://github.com/NiveditaRao87/fcc-project-form-page#fcc-project-form-page
 [tributepage]: https://niveditarao87.github.io/fcc-project-tribute/
 [tributepagerepo]: https://github.com/NiveditaRao87/fcc-project-tribute/tree/gh-pages
+[taskmanager]: https://obscure-waters-16235.herokuapp.com/
+[taskmanagerfrontend]: https://github.com/NiveditaRao87/task-management-app-frontend
+[taskmanagerbackend]: https://github.com/NiveditaRao87/task-management-backend
+[findthespecies]: https://silly-morse-0eed16.netlify.app/
+[findthespeciesrepo]: https://github.com/NiveditaRao87/find-the-species-frontend
