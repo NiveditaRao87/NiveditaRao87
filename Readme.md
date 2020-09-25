@@ -17,13 +17,14 @@ I am currently learning fullstack development and having fun creating projects w
 <br />
 [**repo frontend** ][taskmanagerfrontend]     React, CSS
 [**repo backend** ][taskmanagerbackend]     Node.js, Express, MongoDB
+Demo login with credentials username: demo@email.com password: password
 <br/>
 <br/>
 [<img alt="Project Find the species" src= "https://github.com/NiveditaRao87/find-the-species-frontend/blob/master/preview.jpg" width="200px" height="100px" border="solid"/>][findthespecies] 
 <br />
 [**repo** ][findthespeciesrepo]     React, Material-UI
 
-### Completed projects
+### Completed projects:
 [<img alt="Project form page" src= "https://github.com/NiveditaRao87/fcc-project-form-page/blob/master/screenshot.JPG" width="200px" height="100px"/>][formpage] 
 <br />
 [**repo** ][formpagerepo]     HTML, CSS and vanilla javaScript
