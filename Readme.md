@@ -1,19 +1,19 @@
-## Hi I'm Nivedta. I am a fullstack developer 👋 
+## Hi I'm Nivedta. I am a fullstack developer 👋
 [<img align="right" alt="niveditarao87.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="right" alt="niveditarrao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-I love coding and problem solving regardless of the platform or technology. Current favourite is React.
+I love coding and problem solving regardless of the platform or technology. My current favorite is React
 
 
-I have 7 years experience as a software developer. 
-I am currently learning fullstack development and having fun creating projects while learning.
+I have 7 years experience as a software developer.
+I am currently learning full stack development and having fun creating projects while learning.
 
 ## Some of my projects
 
 ### Ongoing projects:
 
-[<img alt="Project Task management app" src= "https://github.com/NiveditaRao87/task-management-app-frontend/blob/master/preview.JPG" width="200px" height="100px"/>][taskmanager] 
+[<img alt="Project Task management app" src= "https://github.com/NiveditaRao87/task-management-app-frontend/blob/master/preview.JPG" width="200px" height="100px"/>][taskmanager]
 <br />
 [**repo frontend** ][taskmanagerfrontend]     React, CSS
 [**repo backend** ][taskmanagerbackend]     Node.js, Express, MongoDB
@@ -21,17 +21,17 @@ I am currently learning fullstack development and having fun creating projects w
 Demo login with credentials username: demo@email.com password: password
 <br/>
 <br/>
-[<img alt="Project Find the species" src= "https://github.com/NiveditaRao87/find-the-species-frontend/blob/master/preview.jpg" width="200px" height="100px" border="solid"/>][findthespecies] 
+[<img alt="Project Find the species" src= "https://github.com/NiveditaRao87/find-the-species-frontend/blob/master/preview.jpg" width="200px" height="100px" border="solid"/>][findthespecies]
 <br />
 [**repo** ][findthespeciesrepo]     React, Material-UI
 
 ### Completed projects:
-[<img alt="Project form page" src= "https://github.com/NiveditaRao87/fcc-project-form-page/blob/master/screenshot.JPG" width="200px" height="100px"/>][formpage] 
+[<img alt="Project form page" src= "https://github.com/NiveditaRao87/fcc-project-form-page/blob/master/screenshot.JPG" width="200px" height="100px"/>][formpage]
 <br />
 [**repo** ][formpagerepo]     HTML, CSS and vanilla javaScript
 <br/>
 <br/>
-[<img alt="Project tribute page" src= "https://github.com/NiveditaRao87/fcc-project-tribute/blob/gh-pages/preview.JPG" width="200px" height="100px"/>][tributepage] 
+[<img alt="Project tribute page" src= "https://github.com/NiveditaRao87/fcc-project-tribute/blob/gh-pages/preview.JPG" width="200px" height="100px"/>][tributepage]
 <br />
 [**repo** ][tributepagerepo]     HTML and CSS
 
@@ -53,7 +53,8 @@ Demo login with credentials username: demo@email.com password: password
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
+<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/typescript/typescript.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/graphql/graphql.png" />
 
 <br />
 <br />
