@@ -1,10 +1,9 @@
 ## Hi I'm Nivedta. I am a fullstack developer 👋
+
 [<img align="right" alt="niveditarao87.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="right" alt="niveditarrao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
 I love coding and problem solving regardless of the platform or technology. My current favorite is React
-
 
 I have 7 years experience as a software developer.
 I am currently learning full stack development and having fun creating projects while learning.
@@ -13,27 +12,28 @@ I am currently learning full stack development and having fun creating projects 
 
 ### Ongoing projects:
 
-[<img alt="Project Task management app" src= "https://github.com/NiveditaRao87/task-management-app-frontend/blob/master/preview.JPG" width="200px" height="100px"/>][taskmanager]
+[<img alt="Project Micro Tasker app" src= "https://github.com/NiveditaRao87/task-management-app-frontend/blob/master/preview.JPG" width="200px" height="100px"/>][taskmanager]
 <br />
-[**repo frontend** ][taskmanagerfrontend]     React, CSS
-[**repo backend** ][taskmanagerbackend]     Node.js, Express, MongoDB
+[**repo frontend** ][taskmanagerfrontend] React, CSS
+[**repo backend** ][taskmanagerbackend] Node.js, Express, MongoDB
 <br />
 Demo login with credentials username: demo@email.com password: password
 <br/>
 <br/>
 [<img alt="Project Find the species" src= "https://github.com/NiveditaRao87/find-the-species-frontend/blob/master/preview.jpg" width="200px" height="100px" border="solid"/>][findthespecies]
 <br />
-[**repo** ][findthespeciesrepo]     React, Material-UI
+[**repo** ][findthespeciesrepo] React, Material-UI
 
 ### Completed projects:
-[<img alt="Project form page" src= "https://github.com/NiveditaRao87/fcc-project-form-page/blob/master/screenshot.JPG" width="200px" height="100px"/>][formpage]
+
+[<img alt="Project survey form page" src= "https://github.com/NiveditaRao87/fcc-project-form-page/blob/master/screenshot.JPG" width="200px" height="100px"/>][formpage]
 <br />
-[**repo** ][formpagerepo]     HTML, CSS and vanilla javaScript
+[**repo** ][formpagerepo] HTML, CSS and vanilla javaScript
 <br/>
 <br/>
 [<img alt="Project tribute page" src= "https://github.com/NiveditaRao87/fcc-project-tribute/blob/gh-pages/preview.JPG" width="200px" height="100px"/>][tributepage]
 <br />
-[**repo** ][tributepagerepo]     HTML and CSS
+[**repo** ][tributepagerepo] HTML and CSS
 
 <br/>
 <br/>
@@ -72,6 +72,7 @@ Demo login with credentials username: demo@email.com password: password
 <br/>
 
 References for this ReadMe:
+
 1. [codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 2. [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
@@ -81,8 +82,8 @@ References for this ReadMe:
 [formpagerepo]: https://github.com/NiveditaRao87/fcc-project-form-page#fcc-project-form-page
 [tributepage]: https://niveditarao87.github.io/fcc-project-tribute/
 [tributepagerepo]: https://github.com/NiveditaRao87/fcc-project-tribute/tree/gh-pages
-[taskmanager]: https://personaltaskmanager.netlify.app/
+[taskmanager]: https://microtasker.netlify.app/
 [taskmanagerfrontend]: https://github.com/NiveditaRao87/task-management-app-frontend
 [taskmanagerbackend]: https://github.com/NiveditaRao87/task-management-backend
-[findthespecies]: https://silly-morse-0eed16.netlify.app/
+[findthespecies]: https://findthespecies.netlify.app/
 [findthespeciesrepo]: https://github.com/NiveditaRao87/find-the-species-frontend
